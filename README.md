@@ -112,8 +112,10 @@ It leverages advanced **YOLO-based object detection** and scalable backend syste
 
 ##  Demo Video
 
-youtube link - https://youtu.be/3c06ePOG2tg?si=uTzRG5dhDndyecA4
+youtube link - https://youtu.be/3c06ePOG2tg?si=uTzRG5dhDndyecA4   
+
                https://youtu.be/-_v0ZYtJSJ4?si=2PZ8HfSDejNmOEoP
+               
                https://youtu.be/7OE0-iXgX0Q?feature=shared
 
 ---
