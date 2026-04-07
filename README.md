@@ -106,19 +106,22 @@ It leverages advanced **YOLO-based object detection** and scalable backend syste
 ##  Screenshots
 
 ![image alt](https://github.com/devansh10kushwaha/ROADS/blob/5b90da62805ab6e7a0074b9409efe615e5bff84a/roads.png)
+![image alt](https://github.com/devansh10kushwaha/ROADS/blob/9d91fc46f77b7ff7934d8c751ac0e8f8598eedb1/Roads2.png)
 
 ---
 
 ##  Demo Video
 
-youtube link - https://youtu.be/7OE0-iXgX0Q?feature=shared
+youtube link - https://youtu.be/3c06ePOG2tg?si=uTzRG5dhDndyecA4
+               https://youtu.be/-_v0ZYtJSJ4?si=2PZ8HfSDejNmOEoP
+               https://youtu.be/7OE0-iXgX0Q?feature=shared
 
 ---
 
 ##  Future Scope
 
 * AI-based traffic signal automation
-* Emergency vehicle prioritization 🚑
+* Emergency vehicle prioritization 
 * Integration with smart city infrastructure
 * Predictive congestion modeling
 
@@ -135,4 +138,4 @@ youtube link - https://youtu.be/7OE0-iXgX0Q?feature=shared
 
 
 
-If you like this project, give it a ⭐ on GitHub!
+
