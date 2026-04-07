@@ -105,7 +105,7 @@ It leverages advanced **YOLO-based object detection** and scalable backend syste
 
 ##  Screenshots
 
-*(Add your screenshots here)*
+![image alt](https://github.com/devansh10kushwaha/ROADS/blob/5b90da62805ab6e7a0074b9409efe615e5bff84a/roads.png)
 
 ---
 
